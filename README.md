@@ -8,4 +8,4 @@ Currently exploring:
 - 🧠 Optimization ideas — GA/PSO for portfolio allocation
 - 📚 Whatever finance + code problem I happen to be reading about
 
-Mostly learning in public. Feedback always welcome！
+Mostly learning in public. Feedback always welcome
